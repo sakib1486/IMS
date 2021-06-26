@@ -1,0 +1,4098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus lang="english">
+	<lexelt item="refer.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s000.t000">
+			<context>
+				Your Oct. 6 editorial `` The Ill Homeless `` 
+				<head>referred</head>
+				 to research by us and six of our colleagues that was reported in the Sept. 8 issue of the Journal of the American Medical Association .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="research.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s000.t001">
+			<context>
+				Your Oct. 6 editorial `` The Ill Homeless `` referred to 
+				<head>research</head>
+				 by us and six of our colleagues that was reported in the Sept. 8 issue of the Journal of the American Medical Association .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="report.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s000.t002">
+			<context>
+				Your Oct. 6 editorial `` The Ill Homeless `` referred to research by us and six of our colleagues that was 
+				<head>reported</head>
+				 in the Sept. 8 issue of the Journal of the American Medical Association .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="comment.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s001.t000">
+			<context>
+				Your 
+				<head>comments</head>
+				 implied we had discovered that the `` principal cause `` of homelessness is to be found in the large numbers of mentally ill and substance-abusing people in the homeless population .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="imply.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s001.t001">
+			<context>
+				Your comments 
+				<head>implied</head>
+				 we had discovered that the `` principal cause `` of homelessness is to be found in the large numbers of mentally ill and substance-abusing people in the homeless population .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="discover.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s001.t002">
+			<context>
+				Your comments implied we had 
+				<head>discovered</head>
+				 that the `` principal cause `` of homelessness is to be found in the large numbers of mentally ill and substance-abusing people in the homeless population .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="cause.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s001.t003">
+			<context>
+				Your comments implied we had discovered that the `` principal 
+				<head>cause</head>
+				 `` of homelessness is to be found in the large numbers of mentally ill and substance-abusing people in the homeless population .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="find.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s001.t004">
+			<context>
+				Your comments implied we had discovered that the `` principal cause `` of homelessness is to be 
+				<head>found</head>
+				 in the large numbers of mentally ill and substance-abusing people in the homeless population .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="make.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s002.t000">
+			<context>
+				We have 
+				<head>made</head>
+				 no such statement .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="statement.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s002.t001">
+			<context>
+				We have made no such 
+				<head>statement</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="become.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s003.t000">
+			<context>
+				It is clear that most mentally ill people and most alcoholics do not 
+				<head>become</head>
+				 homeless .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="cause.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s004.t000">
+			<context>
+				The `` 
+				<head>causes</head>
+				 `` of homelessness are poorly understood and complex in any individual case .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="understand.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s004.t001">
+			<context>
+				The `` causes `` of homelessness are poorly 
+				<head>understood</head>
+				 and complex in any individual case .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="quote.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s005.t000">
+			<context>
+				In 
+				<head>quoting</head>
+				 from our research you emphasized the high prevalance of mental illness and alcoholism .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="emphasize.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s005.t001">
+			<context>
+				In quoting from our research you 
+				<head>emphasized</head>
+				 the high prevalance of mental illness and alcoholism .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="note.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s006.t000">
+			<context>
+				You did not 
+				<head>note</head>
+				 that the homeless people we examined had a multitude of physical disorders in addition to their psychiatric problems and substance abuse .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="people.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s006.t001">
+			<context>
+				You did not note that the homeless 
+				<head>people</head>
+				 we examined had a multitude of physical disorders in addition to their psychiatric problems and substance abuse .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="examine.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s006.t002">
+			<context>
+				You did not note that the homeless people we 
+				<head>examined</head>
+				 had a multitude of physical disorders in addition to their psychiatric problems and substance abuse .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="have.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s006.t003">
+			<context>
+				You did not note that the homeless people we examined 
+				<head>had</head>
+				 a multitude of physical disorders in addition to their psychiatric problems and substance abuse .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="multitude.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s006.t004">
+			<context>
+				You did not note that the homeless people we examined had a 
+				<head>multitude</head>
+				 of physical disorders in addition to their psychiatric problems and substance abuse .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="suffer.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s007.t000">
+			<context>
+				They 
+				<head>suffered</head>
+				 from malnutrition , chest diseases , cardiovascular disorders , skin problems , infectious diseases and the aftereffects of assaults and rape .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="people.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s008.t000">
+			<context>
+				Homeless 
+				<head>people</head>
+				 not only lack safety , privacy and shelter , they also lack the elementary necessities of nutrition , cleanliness and basic health care .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="lack.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s008.t001">
+			<context>
+				Homeless people not only 
+				<head>lack</head>
+				 safety , privacy and shelter , they also lack the elementary necessities of nutrition , cleanliness and basic health care .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="shelter.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s008.t002">
+			<context>
+				Homeless people not only lack safety , privacy and 
+				<head>shelter</head>
+				 , they also lack the elementary necessities of nutrition , cleanliness and basic health care .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="lack.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s008.t003">
+			<context>
+				Homeless people not only lack safety , privacy and shelter , they also 
+				<head>lack</head>
+				 the elementary necessities of nutrition , cleanliness and basic health care .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="necessity.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s008.t004">
+			<context>
+				Homeless people not only lack safety , privacy and shelter , they also lack the elementary 
+				<head>necessities</head>
+				 of nutrition , cleanliness and basic health care .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="point_out.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s009.t000">
+			<context>
+				In a recent report , the Institute of Medicine 
+				<head>pointed out</head>
+				 that certain health problems may predispose a person to homelessness , others may be a consequence of it , and a third category is composed of disorders whose treatment is difficult or impossible if a person lacks adequate shelter .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="problem.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s009.t001">
+			<context>
+				In a recent report , the Institute of Medicine pointed out that certain health 
+				<head>problems</head>
+				 may predispose a person to homelessness , others may be a consequence of it , and a third category is composed of disorders whose treatment is difficult or impossible if a person lacks adequate shelter .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="predispose.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s009.t002">
+			<context>
+				In a recent report , the Institute of Medicine pointed out that certain health problems may 
+				<head>predispose</head>
+				 a person to homelessness , others may be a consequence of it , and a third category is composed of disorders whose treatment is difficult or impossible if a person lacks adequate shelter .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="person.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s009.t003">
+			<context>
+				In a recent report , the Institute of Medicine pointed out that certain health problems may predispose a 
+				<head>person</head>
+				 to homelessness , others may be a consequence of it , and a third category is composed of disorders whose treatment is difficult or impossible if a person lacks adequate shelter .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="category.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s009.t004">
+			<context>
+				In a recent report , the Institute of Medicine pointed out that certain health problems may predispose a person to homelessness , others may be a consequence of it , and a third 
+				<head>category</head>
+				 is composed of disorders whose treatment is difficult or impossible if a person lacks adequate shelter .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="compose.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s009.t005">
+			<context>
+				In a recent report , the Institute of Medicine pointed out that certain health problems may predispose a person to homelessness , others may be a consequence of it , and a third category is 
+				<head>composed</head>
+				 of disorders whose treatment is difficult or impossible if a person lacks adequate shelter .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="lack.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s009.t006">
+			<context>
+				In a recent report , the Institute of Medicine pointed out that certain health problems may predispose a person to homelessness , others may be a consequence of it , and a third category is composed of disorders whose treatment is difficult or impossible if a person 
+				<head>lacks</head>
+				 adequate shelter .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="shelter.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s009.t007">
+			<context>
+				In a recent report , the Institute of Medicine pointed out that certain health problems may predispose a person to homelessness , others may be a consequence of it , and a third category is composed of disorders whose treatment is difficult or impossible if a person lacks adequate 
+				<head>shelter</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="interaction.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s010.t000">
+			<context>
+				The 
+				<head>interactions</head>
+				 between health and homelessness are complex , defying sweeping generalizations as to `` cause `` or `` effect . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="defy.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s010.t001">
+			<context>
+				The interactions between health and homelessness are complex , 
+				<head>defying</head>
+				 sweeping generalizations as to `` cause `` or `` effect . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="generalization.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s010.t002">
+			<context>
+				The interactions between health and homelessness are complex , defying sweeping 
+				<head>generalizations</head>
+				 as to `` cause `` or `` effect . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="look_to.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s011.t000">
+			<context>
+				If we 
+				<head>look to</head>
+				 the future , preventing homelessness is an important objective .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="prevent.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s011.t001">
+			<context>
+				If we look to the future , 
+				<head>preventing</head>
+				 homelessness is an important objective .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="require.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s012.t000">
+			<context>
+				This will 
+				<head>require</head>
+				 us to develop a much more sophisticated understanding of the dynamics of homelessness than we currently possess , an understanding that can be developed only through careful study and research .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="develop.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s012.t001">
+			<context>
+				This will require us to 
+				<head>develop</head>
+				 a much more sophisticated understanding of the dynamics of homelessness than we currently possess , an understanding that can be developed only through careful study and research .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="understanding.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s012.t002">
+			<context>
+				This will require us to develop a much more sophisticated 
+				<head>understanding</head>
+				 of the dynamics of homelessness than we currently possess , an understanding that can be developed only through careful study and research .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="possess.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s012.t003">
+			<context>
+				This will require us to develop a much more sophisticated understanding of the dynamics of homelessness than we currently 
+				<head>possess</head>
+				 , an understanding that can be developed only through careful study and research .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="develop.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s012.t004">
+			<context>
+				This will require us to develop a much more sophisticated understanding of the dynamics of homelessness than we currently possess , an understanding that can be 
+				<head>developed</head>
+				 only through careful study and research .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="study.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s014.t000">
+			<context>
+				A 
+				<head>study</head>
+				 by Tulane Prof. James Wright says homelessness is due to a complex array of problems , with the common thread of poverty .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="say.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s014.t001">
+			<context>
+				A study by Tulane Prof. James Wright 
+				<head>says</head>
+				 homelessness is due to a complex array of problems , with the common thread of poverty .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="study.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s015.t000">
+			<context>
+				The 
+				<head>study</head>
+				 shows that nearly 40 % of the homeless population is made up of women and children and that only 25 % of the homeless exhibits some combination of drug , alcohol and mental problems .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="show.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s015.t001">
+			<context>
+				The study 
+				<head>shows</head>
+				 that nearly 40 % of the homeless population is made up of women and children and that only 25 % of the homeless exhibits some combination of drug , alcohol and mental problems .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="make_up.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s015.t002">
+			<context>
+				The study shows that nearly 40 % of the homeless population is 
+				<head>made up</head>
+				 of women and children and that only 25 % of the homeless exhibits some combination of drug , alcohol and mental problems .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="exhibit.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s015.t003">
+			<context>
+				The study shows that nearly 40 % of the homeless population is made up of women and children and that only 25 % of the homeless 
+				<head>exhibits</head>
+				 some combination of drug , alcohol and mental problems .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="combination.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s015.t004">
+			<context>
+				The study shows that nearly 40 % of the homeless population is made up of women and children and that only 25 % of the homeless exhibits some 
+				<head>combination</head>
+				 of drug , alcohol and mental problems .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="problem.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s016.t000">
+			<context>
+				According to Dr. Wright , homelessness is `` simultaneously a housing 
+				<head>problem</head>
+				 , an employment problem , a demographic problem , a problem of social disaffiliation , a mental health problem , a family violence problem , a problem created by the cutbacks in social welfare spending , a problem resulting from the decay of the traditional nuclear family , and a problem intimately connected to the recent increase in the number of persons living below the poverty level . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="create.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s016.t001">
+			<context>
+				According to Dr. Wright , homelessness is `` simultaneously a housing problem , an employment problem , a demographic problem , a problem of social disaffiliation , a mental health problem , a family violence problem , a problem 
+				<head>created</head>
+				 by the cutbacks in social welfare spending , a problem resulting from the decay of the traditional nuclear family , and a problem intimately connected to the recent increase in the number of persons living below the poverty level . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="result.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s016.t002">
+			<context>
+				According to Dr. Wright , homelessness is `` simultaneously a housing problem , an employment problem , a demographic problem , a problem of social disaffiliation , a mental health problem , a family violence problem , a problem created by the cutbacks in social welfare spending , a problem 
+				<head>resulting</head>
+				 from the decay of the traditional nuclear family , and a problem intimately connected to the recent increase in the number of persons living below the poverty level . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="connect.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s016.t003">
+			<context>
+				According to Dr. Wright , homelessness is `` simultaneously a housing problem , an employment problem , a demographic problem , a problem of social disaffiliation , a mental health problem , a family violence problem , a problem created by the cutbacks in social welfare spending , a problem resulting from the decay of the traditional nuclear family , and a problem intimately 
+				<head>connected</head>
+				 to the recent increase in the number of persons living below the poverty level . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="person.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s016.t004">
+			<context>
+				According to Dr. Wright , homelessness is `` simultaneously a housing problem , an employment problem , a demographic problem , a problem of social disaffiliation , a mental health problem , a family violence problem , a problem created by the cutbacks in social welfare spending , a problem resulting from the decay of the traditional nuclear family , and a problem intimately connected to the recent increase in the number of 
+				<head>persons</head>
+				 living below the poverty level . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="live.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s016.t005">
+			<context>
+				According to Dr. Wright , homelessness is `` simultaneously a housing problem , an employment problem , a demographic problem , a problem of social disaffiliation , a mental health problem , a family violence problem , a problem created by the cutbacks in social welfare spending , a problem resulting from the decay of the traditional nuclear family , and a problem intimately connected to the recent increase in the number of persons 
+				<head>living</head>
+				 below the poverty level . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="quote.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s018.t000">
+			<context>
+				To 
+				<head>quote</head>
+				 the highly regarded director of a privately funded drop-in center for the homeless in New York : `` If you 're homeless , you do n't sleep for fear of being robbed or murdered .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="director.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s018.t001">
+			<context>
+				To quote the highly regarded 
+				<head>director</head>
+				 of a privately funded drop-in center for the homeless in New York : `` If you 're homeless , you do n't sleep for fear of being robbed or murdered .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="center.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s018.t002">
+			<context>
+				To quote the highly regarded director of a privately funded drop-in 
+				<head>center</head>
+				 for the homeless in New York : `` If you 're homeless , you do n't sleep for fear of being robbed or murdered .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="sleep.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s018.t003">
+			<context>
+				To quote the highly regarded director of a privately funded drop-in center for the homeless in New York : `` If you 're homeless , you do n't 
+				<head>sleep</head>
+				 for fear of being robbed or murdered .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="rob.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s018.t004">
+			<context>
+				To quote the highly regarded director of a privately funded drop-in center for the homeless in New York : `` If you 're homeless , you do n't sleep for fear of being 
+				<head>robbed</head>
+				 or murdered .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="fend.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s019.t000">
+			<context>
+				After your first three weeks of sleep deprivation , you 're scarcely in touch with reality any more ; without psychiatric treatment , you may well be unable to 
+				<head>fend</head>
+				 for yourself ever again . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="have.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s020.t000">
+			<context>
+				Some of the homeless , obviously , 
+				<head>had</head>
+				 pre-existing mental illness or addiction .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="addiction.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s020.t001">
+			<context>
+				Some of the homeless , obviously , had pre-existing mental illness or 
+				<head>addiction</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="fall.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s021.t000">
+			<context>
+				But many others have 
+				<head>fallen</head>
+				 through cracks in the economy into the grim , brutal world of our city streets .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="dismiss.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s024.t000">
+			<context>
+				You 
+				<head>dismiss</head>
+				 as `` sentimental `` the view that the reduction of federal housing-assistance programs by 77 % might have played a significant role in the increased number of men and women sleeping on our city streets during the Reagan-Bush years .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="view.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s024.t001">
+			<context>
+				You dismiss as `` sentimental `` the 
+				<head>view</head>
+				 that the reduction of federal housing-assistance programs by 77 % might have played a significant role in the increased number of men and women sleeping on our city streets during the Reagan-Bush years .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="reduction.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s024.t002">
+			<context>
+				You dismiss as `` sentimental `` the view that the 
+				<head>reduction</head>
+				 of federal housing-assistance programs by 77 % might have played a significant role in the increased number of men and women sleeping on our city streets during the Reagan-Bush years .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="play.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s024.t003">
+			<context>
+				You dismiss as `` sentimental `` the view that the reduction of federal housing-assistance programs by 77 % might have 
+				<head>played</head>
+				 a significant role in the increased number of men and women sleeping on our city streets during the Reagan-Bush years .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="role.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s024.t004">
+			<context>
+				You dismiss as `` sentimental `` the view that the reduction of federal housing-assistance programs by 77 % might have played a significant 
+				<head>role</head>
+				 in the increased number of men and women sleeping on our city streets during the Reagan-Bush years .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="number.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s024.t005">
+			<context>
+				You dismiss as `` sentimental `` the view that the reduction of federal housing-assistance programs by 77 % might have played a significant role in the increased 
+				<head>number</head>
+				 of men and women sleeping on our city streets during the Reagan-Bush years .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="woman.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s024.t006">
+			<context>
+				You dismiss as `` sentimental `` the view that the reduction of federal housing-assistance programs by 77 % might have played a significant role in the increased number of men and 
+				<head>women</head>
+				 sleeping on our city streets during the Reagan-Bush years .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="bother.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s025.t000">
+			<context>
+				There is no sign that you 
+				<head>bothered</head>
+				 to consider the inverse of your logic : namely , that mental illness and substance abuse might be to some degree consequences rather than causes of homelessness .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="consider.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s025.t001">
+			<context>
+				There is no sign that you bothered to 
+				<head>consider</head>
+				 the inverse of your logic : namely , that mental illness and substance abuse might be to some degree consequences rather than causes of homelessness .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="research.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s026.t000">
+			<context>
+				Your 
+				<head>research</head>
+				 stopped when a convenient assertion could be made .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="stop.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s026.t001">
+			<context>
+				Your research 
+				<head>stopped</head>
+				 when a convenient assertion could be made .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="assertion.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s026.t002">
+			<context>
+				Your research stopped when a convenient 
+				<head>assertion</head>
+				 could be made .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="make.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s026.t003">
+			<context>
+				Your research stopped when a convenient assertion could be 
+				<head>made</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="march.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s028.t000">
+			<context>
+				Of the approximately 200 sponsors of the recent 
+				<head>march</head>
+				 in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="choose.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s028.t001">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you 
+				<head>chose</head>
+				 to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="cite.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s028.t002">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to 
+				<head>cite</head>
+				 such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="group.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s028.t003">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such 
+				<head>groups</head>
+				 as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="insinuate.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s028.t004">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , 
+				<head>insinuating</head>
+				 that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="get.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s028.t005">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march 
+				<head>got</head>
+				 its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="support.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s028.t006">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major 
+				<head>support</head>
+				 from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="know.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s028.t007">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` 
+				<head>know</head>
+				 a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="thing.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s028.t008">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good 
+				<head>thing</head>
+				 when they see it , `` and that the crusade was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="see.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s028.t009">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they 
+				<head>see</head>
+				 it , `` and that the crusade was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="crusade.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s028.t010">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the 
+				<head>crusade</head>
+				 was based on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="base.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s028.t011">
+			<context>
+				Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was 
+				<head>based</head>
+				 on greed or the profit motive .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="force.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s029.t000">
+			<context>
+				But is n't the desire for profit the driving 
+				<head>force</head>
+				 behind those who subscribe to , and advertise in , your paper ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="subscribe.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s029.t001">
+			<context>
+				But is n't the desire for profit the driving force behind those who 
+				<head>subscribe</head>
+				 to , and advertise in , your paper ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="advertise.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s029.t002">
+			<context>
+				But is n't the desire for profit the driving force behind those who subscribe to , and 
+				<head>advertise</head>
+				 in , your paper ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="mention.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s030.t000">
+			<context>
+				Why did n't you 
+				<head>mention</head>
+				 the YMCA or the YWCA or Catholic Charities USA or a hundred other nonprofit organizations that participated in the march ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="organization.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s030.t001">
+			<context>
+				Why did n't you mention the YMCA or the YWCA or Catholic Charities USA or a hundred other nonprofit 
+				<head>organizations</head>
+				 that participated in the march ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="participate.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s030.t002">
+			<context>
+				Why did n't you mention the YMCA or the YWCA or Catholic Charities USA or a hundred other nonprofit organizations that 
+				<head>participated</head>
+				 in the march ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="homeless.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s031.t000">
+			<context>
+				As for the findings on the 203 Baltimore 
+				<head>homeless</head>
+				 who underwent psychiatric examinations , I suggest you conduct your own survey .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="undergo.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s031.t001">
+			<context>
+				As for the findings on the 203 Baltimore homeless who 
+				<head>underwent</head>
+				 psychiatric examinations , I suggest you conduct your own survey .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="examination.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s031.t002">
+			<context>
+				As for the findings on the 203 Baltimore homeless who underwent psychiatric 
+				<head>examinations</head>
+				 , I suggest you conduct your own survey .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="suggest.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s031.t003">
+			<context>
+				As for the findings on the 203 Baltimore homeless who underwent psychiatric examinations , I 
+				<head>suggest</head>
+				 you conduct your own survey .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="conduct.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s031.t004">
+			<context>
+				As for the findings on the 203 Baltimore homeless who underwent psychiatric examinations , I suggest you 
+				<head>conduct</head>
+				 your own survey .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="survey.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s031.t005">
+			<context>
+				As for the findings on the 203 Baltimore homeless who underwent psychiatric examinations , I suggest you conduct your own 
+				<head>survey</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="choose.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s032.t000">
+			<context>
+				
+				<head>Choose</head>
+				 203 business executives , including , perhaps , someone from your own staff , and put them out on the streets , to be deprived for one month of their homes , families and income .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="executive.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d000.s032.t001">
+			<context>
+				Choose 203 business 
+				<head>executives</head>
+				 , including , perhaps , someone from your own staff , and put them out on the streets , to be deprived for one month of their homes , families and income .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="include.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s032.t002">
+			<context>
+				Choose 203 business executives , 
+				<head>including</head>
+				 , perhaps , someone from your own staff , and put them out on the streets , to be deprived for one month of their homes , families and income .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="put.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s032.t003">
+			<context>
+				Choose 203 business executives , including , perhaps , someone from your own staff , and 
+				<head>put</head>
+				 them out on the streets , to be deprived for one month of their homes , families and income .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="deprive.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s032.t004">
+			<context>
+				Choose 203 business executives , including , perhaps , someone from your own staff , and put them out on the streets , to be 
+				<head>deprived</head>
+				 for one month of their homes , families and income .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="predict.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s033.t000">
+			<context>
+				I would 
+				<head>predict</head>
+				 that within a short time most of them would find Thunderbird a satisfactory substitute for Chivas Regal and that their `` normal `` phobias , anxieties , depressions and substance abuse would increase dramatically .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="find.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s033.t001">
+			<context>
+				I would predict that within a short time most of them would 
+				<head>find</head>
+				 Thunderbird a satisfactory substitute for Chivas Regal and that their `` normal `` phobias , anxieties , depressions and substance abuse would increase dramatically .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="increase.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d000.s033.t002">
+			<context>
+				I would predict that within a short time most of them would find Thunderbird a satisfactory substitute for Chivas Regal and that their `` normal `` phobias , anxieties , depressions and substance abuse would 
+				<head>increase</head>
+				 dramatically .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="account.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s000.t000">
+			<context>
+				`` Feeding Frenzy `` ( Henry Holt , 326 pages , $ 19.95 ) , a highly detailed 
+				<head>account</head>
+				 of the Wedtech scandal , begins on a reassuring note .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="begin.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s000.t001">
+			<context>
+				`` Feeding Frenzy `` ( Henry Holt , 326 pages , $ 19.95 ) , a highly detailed account of the Wedtech scandal , 
+				<head>begins</head>
+				 on a reassuring note .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="give.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s001.t000">
+			<context>
+				Right up front in the preface , co-author William Sternberg 
+				<head>gives</head>
+				 us an example of his own integrity .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="example.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s001.t001">
+			<context>
+				Right up front in the preface , co-author William Sternberg gives us an 
+				<head>example</head>
+				 of his own integrity .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="offer.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s002.t000">
+			<context>
+				When 
+				<head>offered</head>
+				 a free trip from the Bronx , Wedtech 's home , to Washington , D.C. , by one of Wedtech 's principals , he tells the reader , `` mindful of accepting anything of value from those I was writing about , I declined . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="trip.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s002.t001">
+			<context>
+				When offered a free 
+				<head>trip</head>
+				 from the Bronx , Wedtech 's home , to Washington , D.C. , by one of Wedtech 's principals , he tells the reader , `` mindful of accepting anything of value from those I was writing about , I declined . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="tell.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s002.t002">
+			<context>
+				When offered a free trip from the Bronx , Wedtech 's home , to Washington , D.C. , by one of Wedtech 's principals , he 
+				<head>tells</head>
+				 the reader , `` mindful of accepting anything of value from those I was writing about , I declined . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="reader.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s002.t003">
+			<context>
+				When offered a free trip from the Bronx , Wedtech 's home , to Washington , D.C. , by one of Wedtech 's principals , he tells the 
+				<head>reader</head>
+				 , `` mindful of accepting anything of value from those I was writing about , I declined . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="accept.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s002.t004">
+			<context>
+				When offered a free trip from the Bronx , Wedtech 's home , to Washington , D.C. , by one of Wedtech 's principals , he tells the reader , `` mindful of 
+				<head>accepting</head>
+				 anything of value from those I was writing about , I declined . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="write_about.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s002.t005">
+			<context>
+				When offered a free trip from the Bronx , Wedtech 's home , to Washington , D.C. , by one of Wedtech 's principals , he tells the reader , `` mindful of accepting anything of value from those I was 
+				<head>writing about</head>
+				 , I declined . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="decline.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s002.t006">
+			<context>
+				When offered a free trip from the Bronx , Wedtech 's home , to Washington , D.C. , by one of Wedtech 's principals , he tells the reader , `` mindful of accepting anything of value from those I was writing about , I 
+				<head>declined</head>
+				 . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="question.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s003.t000">
+			<context>
+				Any 
+				<head>question</head>
+				 as to why an author would believe this plaintive , high-minded note of assurance is necessary is answered by reading this book about sticky fingers and sweaty scammers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="author.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s003.t001">
+			<context>
+				Any question as to why an 
+				<head>author</head>
+				 would believe this plaintive , high-minded note of assurance is necessary is answered by reading this book about sticky fingers and sweaty scammers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="believe.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s003.t002">
+			<context>
+				Any question as to why an author would 
+				<head>believe</head>
+				 this plaintive , high-minded note of assurance is necessary is answered by reading this book about sticky fingers and sweaty scammers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="answer.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s003.t003">
+			<context>
+				Any question as to why an author would believe this plaintive , high-minded note of assurance is necessary is 
+				<head>answered</head>
+				 by reading this book about sticky fingers and sweaty scammers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="read.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s003.t004">
+			<context>
+				Any question as to why an author would believe this plaintive , high-minded note of assurance is necessary is answered by 
+				<head>reading</head>
+				 this book about sticky fingers and sweaty scammers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="book.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s003.t005">
+			<context>
+				Any question as to why an author would believe this plaintive , high-minded note of assurance is necessary is answered by reading this 
+				<head>book</head>
+				 about sticky fingers and sweaty scammers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="lead.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s004.t000">
+			<context>
+				Bribe by bribe , Mr. Sternberg and his co-author , Matthew C. Harrison Jr. , 
+				<head>lead</head>
+				 us along the path Wedtech traveled , from its inception as a small manufacturing company to the status of full-fledged defense contractor , entrusted with the task of producing vital equipment for the Army and Navy .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="path.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s004.t001">
+			<context>
+				Bribe by bribe , Mr. Sternberg and his co-author , Matthew C. Harrison Jr. , lead us along the 
+				<head>path</head>
+				 Wedtech traveled , from its inception as a small manufacturing company to the status of full-fledged defense contractor , entrusted with the task of producing vital equipment for the Army and Navy .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="travel.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s004.t002">
+			<context>
+				Bribe by bribe , Mr. Sternberg and his co-author , Matthew C. Harrison Jr. , lead us along the path Wedtech 
+				<head>traveled</head>
+				 , from its inception as a small manufacturing company to the status of full-fledged defense contractor , entrusted with the task of producing vital equipment for the Army and Navy .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="company.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s004.t003">
+			<context>
+				Bribe by bribe , Mr. Sternberg and his co-author , Matthew C. Harrison Jr. , lead us along the path Wedtech traveled , from its inception as a small manufacturing 
+				<head>company</head>
+				 to the status of full-fledged defense contractor , entrusted with the task of producing vital equipment for the Army and Navy .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="contractor.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s004.t004">
+			<context>
+				Bribe by bribe , Mr. Sternberg and his co-author , Matthew C. Harrison Jr. , lead us along the path Wedtech traveled , from its inception as a small manufacturing company to the status of full-fledged defense 
+				<head>contractor</head>
+				 , entrusted with the task of producing vital equipment for the Army and Navy .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="entrust.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s004.t005">
+			<context>
+				Bribe by bribe , Mr. Sternberg and his co-author , Matthew C. Harrison Jr. , lead us along the path Wedtech traveled , from its inception as a small manufacturing company to the status of full-fledged defense contractor , 
+				<head>entrusted</head>
+				 with the task of producing vital equipment for the Army and Navy .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="produce.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s004.t006">
+			<context>
+				Bribe by bribe , Mr. Sternberg and his co-author , Matthew C. Harrison Jr. , lead us along the path Wedtech traveled , from its inception as a small manufacturing company to the status of full-fledged defense contractor , entrusted with the task of 
+				<head>producing</head>
+				 vital equipment for the Army and Navy .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="book.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s005.t000">
+			<context>
+				The 
+				<head>book</head>
+				 revolves around John Mariotta , the founder of the company , and Fred Neuberger , who became his partner soon after Wedtech 's creation .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="revolve_around.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s005.t001">
+			<context>
+				The book 
+				<head>revolves around</head>
+				 John Mariotta , the founder of the company , and Fred Neuberger , who became his partner soon after Wedtech 's creation .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="become.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s005.t002">
+			<context>
+				The book revolves around John Mariotta , the founder of the company , and Fred Neuberger , who 
+				<head>became</head>
+				 his partner soon after Wedtech 's creation .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="partner.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s005.t003">
+			<context>
+				The book revolves around John Mariotta , the founder of the company , and Fred Neuberger , who became his 
+				<head>partner</head>
+				 soon after Wedtech 's creation .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="start.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s006.t000">
+			<context>
+				Although 
+				<head>started</head>
+				 in 1965 , Wedtech did n't really get rolling until 1975 , when Mr. Neuberger discovered the federal government 's Section 8 A minority business program .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="get.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s006.t001">
+			<context>
+				Although started in 1965 , Wedtech did n't really 
+				<head>get</head>
+				 rolling until 1975 , when Mr. Neuberger discovered the federal government 's Section 8 A minority business program .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="roll.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s006.t002">
+			<context>
+				Although started in 1965 , Wedtech did n't really get 
+				<head>rolling</head>
+				 until 1975 , when Mr. Neuberger discovered the federal government 's Section 8 A minority business program .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="discover.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s006.t003">
+			<context>
+				Although started in 1965 , Wedtech did n't really get rolling until 1975 , when Mr. Neuberger 
+				<head>discovered</head>
+				 the federal government 's Section 8 A minority business program .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="programme.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s006.t004">
+			<context>
+				Although started in 1965 , Wedtech did n't really get rolling until 1975 , when Mr. Neuberger discovered the federal government 's Section 8 A minority business 
+				<head>program</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="creation.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s007.t000">
+			<context>
+				This is a Johnson-era , Great Society 
+				<head>creation</head>
+				 that mandates certain government contracts be awarded noncompetitively to minority businesses .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="mandate.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s007.t001">
+			<context>
+				This is a Johnson-era , Great Society creation that 
+				<head>mandates</head>
+				 certain government contracts be awarded noncompetitively to minority businesses .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="contract.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s007.t002">
+			<context>
+				This is a Johnson-era , Great Society creation that mandates certain government 
+				<head>contracts</head>
+				 be awarded noncompetitively to minority businesses .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="award.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s007.t003">
+			<context>
+				This is a Johnson-era , Great Society creation that mandates certain government contracts be 
+				<head>awarded</head>
+				 noncompetitively to minority businesses .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="realize.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s008.t000">
+			<context>
+				Mr. Neuberger 
+				<head>realized</head>
+				 that , although of Italian ancestry , Mr. Mariotta still could qualify as a minority person since he was born in Puerto Rico .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="qualify.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s008.t001">
+			<context>
+				Mr. Neuberger realized that , although of Italian ancestry , Mr. Mariotta still could 
+				<head>qualify</head>
+				 as a minority person since he was born in Puerto Rico .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="partner.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s009.t000">
+			<context>
+				The two 
+				<head>partners</head>
+				 merely had to falsify the true ownership of the corporation .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="have.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s009.t001">
+			<context>
+				The two partners merely 
+				<head>had</head>
+				 to falsify the true ownership of the corporation .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="falsify.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s009.t002">
+			<context>
+				The two partners merely had to 
+				<head>falsify</head>
+				 the true ownership of the corporation .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="ownership.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s009.t003">
+			<context>
+				The two partners merely had to falsify the true 
+				<head>ownership</head>
+				 of the corporation .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="become.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s010.t000">
+			<context>
+				Instead of 50/50 it 
+				<head>became</head>
+				 , on paper only , two-thirds Mariotta , one-third Neuberger , and they were in the program and off to the races .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="locate.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s011.t000">
+			<context>
+				Besides being a `` minority-owned company `` Wedtech was 
+				<head>located</head>
+				 in the South Bronx , a blighted area , made famous by Jimmy Carter in his 1976 presidential campaign .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="area.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s011.t001">
+			<context>
+				Besides being a `` minority-owned company `` Wedtech was located in the South Bronx , a blighted 
+				<head>area</head>
+				 , made famous by Jimmy Carter in his 1976 presidential campaign .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="make.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s011.t002">
+			<context>
+				Besides being a `` minority-owned company `` Wedtech was located in the South Bronx , a blighted area , 
+				<head>made</head>
+				 famous by Jimmy Carter in his 1976 presidential campaign .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="company.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s012.t000">
+			<context>
+				The 
+				<head>company</head>
+				 plugged itself right into Carter campaign rhetoric about rebuilding the South Bronx and kept using the minority -- South Bronx angle through the Reagan '80s .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="rebuild.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s012.t001">
+			<context>
+				The company plugged itself right into Carter campaign rhetoric about 
+				<head>rebuilding</head>
+				 the South Bronx and kept using the minority -- South Bronx angle through the Reagan '80s .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="keep.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s012.t002">
+			<context>
+				The company plugged itself right into Carter campaign rhetoric about rebuilding the South Bronx and 
+				<head>kept</head>
+				 using the minority -- South Bronx angle through the Reagan '80s .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="use.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s012.t003">
+			<context>
+				The company plugged itself right into Carter campaign rhetoric about rebuilding the South Bronx and kept 
+				<head>using</head>
+				 the minority -- South Bronx angle through the Reagan '80s .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="angle.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s012.t004">
+			<context>
+				The company plugged itself right into Carter campaign rhetoric about rebuilding the South Bronx and kept using the minority -- South Bronx 
+				<head>angle</head>
+				 through the Reagan '80s .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="start.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s013.t000">
+			<context>
+				
+				<head>Starting</head>
+				 with Congressman Mario Biaggi now serving a jail sentence , the company began a career of bribing federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="serve.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s013.t001">
+			<context>
+				Starting with Congressman Mario Biaggi now 
+				<head>serving</head>
+				 a jail sentence , the company began a career of bribing federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="sentence.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s013.t002">
+			<context>
+				Starting with Congressman Mario Biaggi now serving a jail 
+				<head>sentence</head>
+				 , the company began a career of bribing federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="company.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s013.t003">
+			<context>
+				Starting with Congressman Mario Biaggi now serving a jail sentence , the 
+				<head>company</head>
+				 began a career of bribing federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="begin.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s013.t004">
+			<context>
+				Starting with Congressman Mario Biaggi now serving a jail sentence , the company 
+				<head>began</head>
+				 a career of bribing federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="career.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s013.t005">
+			<context>
+				Starting with Congressman Mario Biaggi now serving a jail sentence , the company began a 
+				<head>career</head>
+				 of bribing federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="bribe.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s013.t006">
+			<context>
+				Starting with Congressman Mario Biaggi now serving a jail sentence , the company began a career of 
+				<head>bribing</head>
+				 federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="official.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s013.t007">
+			<context>
+				Starting with Congressman Mario Biaggi now serving a jail sentence , the company began a career of bribing federal , state and local public 
+				<head>officials</head>
+				 and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="include.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s013.t008">
+			<context>
+				Starting with Congressman Mario Biaggi now serving a jail sentence , the company began a career of bribing federal , state and local public officials and those close to public officials , right up to and 
+				<head>including</head>
+				 E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="use.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s014.t000">
+			<context>
+				Wedtech did n't just 
+				<head>use</head>
+				 old fashioned bribery .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="make.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s015.t000">
+			<context>
+				It 
+				<head>made</head>
+				 ample use of the modern techniques of influence peddling , retaining politically connected `` respectable `` law firms , investment bankers and political consultants , including Reagan confidant Lyn Nofzinger .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="use.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s015.t001">
+			<context>
+				It made ample 
+				<head>use</head>
+				 of the modern techniques of influence peddling , retaining politically connected `` respectable `` law firms , investment bankers and political consultants , including Reagan confidant Lyn Nofzinger .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="retain.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s015.t002">
+			<context>
+				It made ample use of the modern techniques of influence peddling , 
+				<head>retaining</head>
+				 politically connected `` respectable `` law firms , investment bankers and political consultants , including Reagan confidant Lyn Nofzinger .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="include.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s015.t003">
+			<context>
+				It made ample use of the modern techniques of influence peddling , retaining politically connected `` respectable `` law firms , investment bankers and political consultants , 
+				<head>including</head>
+				 Reagan confidant Lyn Nofzinger .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="seek.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s016.t000">
+			<context>
+				When necessary , it 
+				<head>sought</head>
+				 and received assistance from organized crime .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="receive.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s016.t001">
+			<context>
+				When necessary , it sought and 
+				<head>received</head>
+				 assistance from organized crime .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="assistance.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s016.t002">
+			<context>
+				When necessary , it sought and received 
+				<head>assistance</head>
+				 from organized crime .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="become.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s017.t000">
+			<context>
+				Sometimes the bribed 
+				<head>became</head>
+				 partners in the company .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="partner.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s017.t001">
+			<context>
+				Sometimes the bribed became 
+				<head>partners</head>
+				 in the company .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="management.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s018.t000">
+			<context>
+				Wedtech 
+				<head>management</head>
+				 used the merit system .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="use.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s018.t001">
+			<context>
+				Wedtech management 
+				<head>used</head>
+				 the merit system .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="system.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s018.t002">
+			<context>
+				Wedtech management used the merit 
+				<head>system</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="receive.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s019.t000">
+			<context>
+				If you were especially helpful in a corrupt scheme you 
+				<head>received</head>
+				 not just cash in a bag , but equity .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="equity.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s019.t001">
+			<context>
+				If you were especially helpful in a corrupt scheme you received not just cash in a bag , but 
+				<head>equity</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="find.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s020.t000">
+			<context>
+				If you were not an effective crook , you 
+				<head>found</head>
+				 yourself out in the cold , a fate that eventually befell Mr. Mariotta , the firm 's semiliterate `` minority `` person .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="fate.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s020.t001">
+			<context>
+				If you were not an effective crook , you found yourself out in the cold , a 
+				<head>fate</head>
+				 that eventually befell Mr. Mariotta , the firm 's semiliterate `` minority `` person .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="befall.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s020.t002">
+			<context>
+				If you were not an effective crook , you found yourself out in the cold , a fate that eventually 
+				<head>befell</head>
+				 Mr. Mariotta , the firm 's semiliterate `` minority `` person .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="person.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s020.t003">
+			<context>
+				If you were not an effective crook , you found yourself out in the cold , a fate that eventually befell Mr. Mariotta , the firm 's semiliterate `` minority `` 
+				<head>person</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="fall_short.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s021.t000">
+			<context>
+				But despite the sensational nature of the revelations and the breezy , easy-to-read tabloid writing style , `` Feeding Frenzy `` often 
+				<head>falls short</head>
+				 of gripping reading .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="show.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s022.t000">
+			<context>
+				None of the scams 
+				<head>show</head>
+				 much ingenuity : Auditors found crookery the first day on the job .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="ingenuity.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s022.t001">
+			<context>
+				None of the scams show much 
+				<head>ingenuity</head>
+				 : Auditors found crookery the first day on the job .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="find.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s022.t002">
+			<context>
+				None of the scams show much ingenuity : Auditors 
+				<head>found</head>
+				 crookery the first day on the job .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="bribe.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s023.t000">
+			<context>
+				Wedtech 's scammers simply 
+				<head>bribed</head>
+				 them to shut up .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="shut_up.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s023.t001">
+			<context>
+				Wedtech 's scammers simply bribed them to 
+				<head>shut up</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="want.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s024.t000">
+			<context>
+				The scammers themselves were garden-variety low lifes , conspicuous consumers who 
+				<head>wanted</head>
+				 big houses , Mercedes cars , beautiful women , expensive clothes .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="clothes.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s024.t001">
+			<context>
+				The scammers themselves were garden-variety low lifes , conspicuous consumers who wanted big houses , Mercedes cars , beautiful women , expensive 
+				<head>clothes</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="wrestle.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s025.t000">
+			<context>
+				Among the lot of them , not one is 
+				<head>wrestling</head>
+				 with good and evil , or especially intelligent or even temporarily insane .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="change.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s026.t000">
+			<context>
+				The one character at least somewhat interesting was Irving Louis Lobsenz , a pediatrician who 
+				<head>changed</head>
+				 his name to Rusty Kent London and became a master gambler and author of a book on blackjack .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="name.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s026.t001">
+			<context>
+				The one character at least somewhat interesting was Irving Louis Lobsenz , a pediatrician who changed his 
+				<head>name</head>
+				 to Rusty Kent London and became a master gambler and author of a book on blackjack .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="become.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s026.t002">
+			<context>
+				The one character at least somewhat interesting was Irving Louis Lobsenz , a pediatrician who changed his name to Rusty Kent London and 
+				<head>became</head>
+				 a master gambler and author of a book on blackjack .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="author.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s026.t003">
+			<context>
+				The one character at least somewhat interesting was Irving Louis Lobsenz , a pediatrician who changed his name to Rusty Kent London and became a master gambler and 
+				<head>author</head>
+				 of a book on blackjack .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="enter.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s027.t000">
+			<context>
+				He 
+				<head>enters</head>
+				 the story toward the end , just in time to get arrested .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="get.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s027.t001">
+			<context>
+				He enters the story toward the end , just in time to 
+				<head>get</head>
+				 arrested .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="arrest.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s027.t002">
+			<context>
+				He enters the story toward the end , just in time to get 
+				<head>arrested</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="absorb.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s028.t000">
+			<context>
+				
+				<head>Absorbed</head>
+				 in doling out `` Feeding Frenzy 's `` tidbits , the authors gloss over the root causes of Wedtech , namely the Section 8 A federal program under whose auspices the scandal took place .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="author.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s028.t001">
+			<context>
+				Absorbed in doling out `` Feeding Frenzy 's `` tidbits , the 
+				<head>authors</head>
+				 gloss over the root causes of Wedtech , namely the Section 8 A federal program under whose auspices the scandal took place .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="gloss_over.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s028.t002">
+			<context>
+				Absorbed in doling out `` Feeding Frenzy 's `` tidbits , the authors 
+				<head>gloss over</head>
+				 the root causes of Wedtech , namely the Section 8 A federal program under whose auspices the scandal took place .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="program.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s028.t003">
+			<context>
+				Absorbed in doling out `` Feeding Frenzy 's `` tidbits , the authors gloss over the root causes of Wedtech , namely the Section 8 A federal 
+				<head>program</head>
+				 under whose auspices the scandal took place .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="scandal.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s028.t004">
+			<context>
+				Absorbed in doling out `` Feeding Frenzy 's `` tidbits , the authors gloss over the root causes of Wedtech , namely the Section 8 A federal program under whose auspices the 
+				<head>scandal</head>
+				 took place .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="take_place.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s028.t005">
+			<context>
+				Absorbed in doling out `` Feeding Frenzy 's `` tidbits , the authors gloss over the root causes of Wedtech , namely the Section 8 A federal program under whose auspices the scandal 
+				<head>took place</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="come_around.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s029.t000">
+			<context>
+				They do at least 
+				<head>come around</head>
+				 to saying that the courts might want to end `` rigid affirmative action programs . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="say.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s029.t001">
+			<context>
+				They do at least come around to 
+				<head>saying</head>
+				 that the courts might want to end `` rigid affirmative action programs . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="court.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s029.t002">
+			<context>
+				They do at least come around to saying that the 
+				<head>courts</head>
+				 might want to end `` rigid affirmative action programs . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="want.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s029.t003">
+			<context>
+				They do at least come around to saying that the courts might 
+				<head>want</head>
+				 to end `` rigid affirmative action programs . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="end.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s029.t004">
+			<context>
+				They do at least come around to saying that the courts might want to 
+				<head>end</head>
+				 `` rigid affirmative action programs . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="program.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s029.t005">
+			<context>
+				They do at least come around to saying that the courts might want to end `` rigid affirmative action 
+				<head>programs</head>
+				 . ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="leave.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s030.t000">
+			<context>
+				Programs like Section 8 A are a little like 
+				<head>leaving</head>
+				 gold in the street and then expressing surprise when thieves walk by to scoop it up .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="gold.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s030.t001">
+			<context>
+				Programs like Section 8 A are a little like leaving 
+				<head>gold</head>
+				 in the street and then expressing surprise when thieves walk by to scoop it up .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="express.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s030.t002">
+			<context>
+				Programs like Section 8 A are a little like leaving gold in the street and then 
+				<head>expressing</head>
+				 surprise when thieves walk by to scoop it up .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="surprise.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s030.t003">
+			<context>
+				Programs like Section 8 A are a little like leaving gold in the street and then expressing 
+				<head>surprise</head>
+				 when thieves walk by to scoop it up .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="walk.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s030.t004">
+			<context>
+				Programs like Section 8 A are a little like leaving gold in the street and then expressing surprise when thieves 
+				<head>walk</head>
+				 by to scoop it up .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="scoop.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s030.t005">
+			<context>
+				Programs like Section 8 A are a little like leaving gold in the street and then expressing surprise when thieves walk by to 
+				<head>scoop</head>
+				 it up .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="one.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s031.t000">
+			<context>
+				Numerous other scandals , among them the 
+				<head>ones</head>
+				 at HUD , have the same characteristics as Wedtech .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="have.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s031.t001">
+			<context>
+				Numerous other scandals , among them the ones at HUD , 
+				<head>have</head>
+				 the same characteristics as Wedtech .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="characteristic.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s031.t002">
+			<context>
+				Numerous other scandals , among them the ones at HUD , have the same 
+				<head>characteristics</head>
+				 as Wedtech .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="take_place.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s032.t000">
+			<context>
+				They 
+				<head>take place</head>
+				 in government programs that seem tailor-made for corruption .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="program.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s032.t001">
+			<context>
+				They take place in government 
+				<head>programs</head>
+				 that seem tailor-made for corruption .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="seem.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s032.t002">
+			<context>
+				They take place in government programs that 
+				<head>seem</head>
+				 tailor-made for corruption .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="program.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s033.t000">
+			<context>
+				Why are 
+				<head>programs</head>
+				 like this not eliminated ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="eliminate.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s033.t001">
+			<context>
+				Why are programs like this not 
+				<head>eliminated</head>
+				 ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="provide.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s034.t000">
+			<context>
+				`` Feeding Frenzy `` does 
+				<head>provide</head>
+				 a few clues .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="clue.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s034.t001">
+			<context>
+				`` Feeding Frenzy `` does provide a few 
+				<head>clues</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="group.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s035.t000">
+			<context>
+				In and around all levels of government in the U.S. are 
+				<head>groups</head>
+				 of people who can best be described as belonging to a political insider commercial party .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="people.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s035.t001">
+			<context>
+				In and around all levels of government in the U.S. are groups of 
+				<head>people</head>
+				 who can best be described as belonging to a political insider commercial party .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="describe.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s035.t002">
+			<context>
+				In and around all levels of government in the U.S. are groups of people who can best be 
+				<head>described</head>
+				 as belonging to a political insider commercial party .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="belong.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s035.t003">
+			<context>
+				In and around all levels of government in the U.S. are groups of people who can best be described as 
+				<head>belonging</head>
+				 to a political insider commercial party .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="know.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s036.t000">
+			<context>
+				They 
+				<head>know</head>
+				 that whenever government is redistributing wealth , regulating commerce or maintaining a large defense establishment , there is big money to be made in influencing , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="government.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s036.t001">
+			<context>
+				They know that whenever 
+				<head>government</head>
+				 is redistributing wealth , regulating commerce or maintaining a large defense establishment , there is big money to be made in influencing , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="redistribute.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s036.t002">
+			<context>
+				They know that whenever government is 
+				<head>redistributing</head>
+				 wealth , regulating commerce or maintaining a large defense establishment , there is big money to be made in influencing , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="wealth.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s036.t003">
+			<context>
+				They know that whenever government is redistributing 
+				<head>wealth</head>
+				 , regulating commerce or maintaining a large defense establishment , there is big money to be made in influencing , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="regulate.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s036.t004">
+			<context>
+				They know that whenever government is redistributing wealth , 
+				<head>regulating</head>
+				 commerce or maintaining a large defense establishment , there is big money to be made in influencing , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="commerce.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s036.t005">
+			<context>
+				They know that whenever government is redistributing wealth , regulating 
+				<head>commerce</head>
+				 or maintaining a large defense establishment , there is big money to be made in influencing , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="maintain.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s036.t006">
+			<context>
+				They know that whenever government is redistributing wealth , regulating commerce or 
+				<head>maintaining</head>
+				 a large defense establishment , there is big money to be made in influencing , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="establishment.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s036.t007">
+			<context>
+				They know that whenever government is redistributing wealth , regulating commerce or maintaining a large defense 
+				<head>establishment</head>
+				 , there is big money to be made in influencing , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="money.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s036.t008">
+			<context>
+				They know that whenever government is redistributing wealth , regulating commerce or maintaining a large defense establishment , there is big 
+				<head>money</head>
+				 to be made in influencing , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="make.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s036.t009">
+			<context>
+				They know that whenever government is redistributing wealth , regulating commerce or maintaining a large defense establishment , there is big money to be 
+				<head>made</head>
+				 in influencing , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="influence.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s036.t010">
+			<context>
+				They know that whenever government is redistributing wealth , regulating commerce or maintaining a large defense establishment , there is big money to be made in 
+				<head>influencing</head>
+				 , brokering or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="broker.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s036.t011">
+			<context>
+				They know that whenever government is redistributing wealth , regulating commerce or maintaining a large defense establishment , there is big money to be made in influencing , 
+				<head>brokering</head>
+				 or selling the processes and decisions of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="decision.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s036.t012">
+			<context>
+				They know that whenever government is redistributing wealth , regulating commerce or maintaining a large defense establishment , there is big money to be made in influencing , brokering or selling the processes and 
+				<head>decisions</head>
+				 of government .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="have.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s037.t000">
+			<context>
+				They are our version of the East bloc 's Nomenklatura and they 
+				<head>have</head>
+				 absolutely no wish to see anything change .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="wish.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s037.t001">
+			<context>
+				They are our version of the East bloc 's Nomenklatura and they have absolutely no 
+				<head>wish</head>
+				 to see anything change .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="see.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s037.t002">
+			<context>
+				They are our version of the East bloc 's Nomenklatura and they have absolutely no wish to 
+				<head>see</head>
+				 anything change .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="change.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s037.t003">
+			<context>
+				They are our version of the East bloc 's Nomenklatura and they have absolutely no wish to see anything 
+				<head>change</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="exist.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s038.t000">
+			<context>
+				How many government programs and policies 
+				<head>exist</head>
+				 because they line the pockets of political insiders ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="line.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s038.t001">
+			<context>
+				How many government programs and policies exist because they 
+				<head>line</head>
+				 the pockets of political insiders ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="pocket.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s038.t002">
+			<context>
+				How many government programs and policies exist because they line the 
+				<head>pockets</head>
+				 of political insiders ?
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="issue.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d001.s039.t000">
+			<context>
+				This is the real 
+				<head>issue</head>
+				 raised by the Wedtech scandal .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="raise.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d001.s039.t001">
+			<context>
+				This is the real issue 
+				<head>raised</head>
+				 by the Wedtech scandal .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="reach.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s000.t000">
+			<context>
+				I had to 
+				<head>reach</head>
+				 back to French 101 when the monsieur avec clipboard leaned over my shoulder during the coffee phase of dinner and asked whether I wanted to ride in a montgolfiere .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="lean.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s000.t001">
+			<context>
+				I had to reach back to French 101 when the monsieur avec clipboard 
+				<head>leaned</head>
+				 over my shoulder during the coffee phase of dinner and asked whether I wanted to ride in a montgolfiere .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="ask.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s000.t002">
+			<context>
+				I had to reach back to French 101 when the monsieur avec clipboard leaned over my shoulder during the coffee phase of dinner and 
+				<head>asked</head>
+				 whether I wanted to ride in a montgolfiere .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="want.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s000.t003">
+			<context>
+				I had to reach back to French 101 when the monsieur avec clipboard leaned over my shoulder during the coffee phase of dinner and asked whether I 
+				<head>wanted</head>
+				 to ride in a montgolfiere .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="ride.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s000.t004">
+			<context>
+				I had to reach back to French 101 when the monsieur avec clipboard leaned over my shoulder during the coffee phase of dinner and asked whether I wanted to 
+				<head>ride</head>
+				 in a montgolfiere .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="read.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s001.t000">
+			<context>
+				I was a last-minute 
+				<head>read</head>
+				 interloping attendee at a French journalism convention and so far the festivities had been taken up entirely by eating , drinking , smoking , sleeping and drinking .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="take_up.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s001.t001">
+			<context>
+				I was a last-minute read interloping attendee at a French journalism convention and so far the festivities had been 
+				<head>taken up</head>
+				 entirely by eating , drinking , smoking , sleeping and drinking .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="man.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s002.t000">
+			<context>
+				The 
+				<head>man</head>
+				 with the clipboard represented a halfhearted attempt to introduce a bit of les sportif into our itinerary .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="represent.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s002.t001">
+			<context>
+				The man with the clipboard 
+				<head>represented</head>
+				 a halfhearted attempt to introduce a bit of les sportif into our itinerary .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="attempt.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s002.t002">
+			<context>
+				The man with the clipboard represented a halfhearted 
+				<head>attempt</head>
+				 to introduce a bit of les sportif into our itinerary .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="introduce.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s002.t003">
+			<context>
+				The man with the clipboard represented a halfhearted attempt to 
+				<head>introduce</head>
+				 a bit of les sportif into our itinerary .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="bit.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s002.t004">
+			<context>
+				The man with the clipboard represented a halfhearted attempt to introduce a 
+				<head>bit</head>
+				 of les sportif into our itinerary .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="embody.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s003.t000">
+			<context>
+				But as the French 
+				<head>embody</head>
+				 a Zen-like state of blase when it comes to athletics try finding a Nautilus machine in Paris , my fellow conventioners were having none of it .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="state.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s003.t001">
+			<context>
+				But as the French embody a Zen-like 
+				<head>state</head>
+				 of blase when it comes to athletics try finding a Nautilus machine in Paris , my fellow conventioners were having none of it .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="come_to.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s003.t002">
+			<context>
+				But as the French embody a Zen-like state of blase when it 
+				<head>comes to</head>
+				 athletics try finding a Nautilus machine in Paris , my fellow conventioners were having none of it .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="try.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s003.t003">
+			<context>
+				But as the French embody a Zen-like state of blase when it comes to athletics 
+				<head>try</head>
+				 finding a Nautilus machine in Paris , my fellow conventioners were having none of it .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="find.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s003.t004">
+			<context>
+				But as the French embody a Zen-like state of blase when it comes to athletics try 
+				<head>finding</head>
+				 a Nautilus machine in Paris , my fellow conventioners were having none of it .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="machine.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s003.t005">
+			<context>
+				But as the French embody a Zen-like state of blase when it comes to athletics try finding a Nautilus 
+				<head>machine</head>
+				 in Paris , my fellow conventioners were having none of it .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="have.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s003.t006">
+			<context>
+				But as the French embody a Zen-like state of blase when it comes to athletics try finding a Nautilus machine in Paris , my fellow conventioners were 
+				<head>having</head>
+				 none of it .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="diner.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s004.t000">
+			<context>
+				The 
+				<head>diners</head>
+				 at my table simply lit more Gauloises and scoffed at the suggestion of interrupting a perfectly good Saturday morning to go golfing or even montgolfing ballooning to you ; the brothers Montgolfier , French of course , were the world 's first hot-air balloonists .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="light.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s004.t001">
+			<context>
+				The diners at my table simply 
+				<head>lit</head>
+				 more Gauloises and scoffed at the suggestion of interrupting a perfectly good Saturday morning to go golfing or even montgolfing ballooning to you ; the brothers Montgolfier , French of course , were the world 's first hot-air balloonists .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="scoff.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s004.t002">
+			<context>
+				The diners at my table simply lit more Gauloises and 
+				<head>scoffed</head>
+				 at the suggestion of interrupting a perfectly good Saturday morning to go golfing or even montgolfing ballooning to you ; the brothers Montgolfier , French of course , were the world 's first hot-air balloonists .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="interrupt.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s004.t003">
+			<context>
+				The diners at my table simply lit more Gauloises and scoffed at the suggestion of 
+				<head>interrupting</head>
+				 a perfectly good Saturday morning to go golfing or even montgolfing ballooning to you ; the brothers Montgolfier , French of course , were the world 's first hot-air balloonists .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="morning.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s004.t004">
+			<context>
+				The diners at my table simply lit more Gauloises and scoffed at the suggestion of interrupting a perfectly good Saturday 
+				<head>morning</head>
+				 to go golfing or even montgolfing ballooning to you ; the brothers Montgolfier , French of course , were the world 's first hot-air balloonists .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="win.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s005.t000">
+			<context>
+				Back in the U.S.A. this kind of chi-chi airborne activity 
+				<head>wins</head>
+				 heartwarmingly covetous responses .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="response.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s005.t001">
+			<context>
+				Back in the U.S.A. this kind of chi-chi airborne activity wins heartwarmingly covetous 
+				<head>responses</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="balloon.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s006.t000">
+			<context>
+				As in : `` You went 
+				<head>ballooning</head>
+				 ? ? ! !
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="seem.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s008.t000">
+			<context>
+				Americans it 
+				<head>seems</head>
+				 have followed Malcolm Forbes 's hot-air lead and taken to ballooning in a heady way .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="follow.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s008.t001">
+			<context>
+				Americans it seems have 
+				<head>followed</head>
+				 Malcolm Forbes 's hot-air lead and taken to ballooning in a heady way .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="lead.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s008.t002">
+			<context>
+				Americans it seems have followed Malcolm Forbes 's hot-air 
+				<head>lead</head>
+				 and taken to ballooning in a heady way .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="take_to.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s008.t003">
+			<context>
+				Americans it seems have followed Malcolm Forbes 's hot-air lead and 
+				<head>taken to</head>
+				 ballooning in a heady way .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="number.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s009.t000">
+			<context>
+				During the past 25 years , the 
+				<head>number</head>
+				 of balloonists those who have passed a Federal Aviation Authority lighter-than-air test have swelled from a couple hundred to several thousand , with some estimates running as high as 10,000 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="pass.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s009.t001">
+			<context>
+				During the past 25 years , the number of balloonists those who have 
+				<head>passed</head>
+				 a Federal Aviation Authority lighter-than-air test have swelled from a couple hundred to several thousand , with some estimates running as high as 10,000 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="test.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s009.t002">
+			<context>
+				During the past 25 years , the number of balloonists those who have passed a Federal Aviation Authority lighter-than-air 
+				<head>test</head>
+				 have swelled from a couple hundred to several thousand , with some estimates running as high as 10,000 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="swell.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s009.t003">
+			<context>
+				During the past 25 years , the number of balloonists those who have passed a Federal Aviation Authority lighter-than-air test have 
+				<head>swelled</head>
+				 from a couple hundred to several thousand , with some estimates running as high as 10,000 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="estimate.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s009.t004">
+			<context>
+				During the past 25 years , the number of balloonists those who have passed a Federal Aviation Authority lighter-than-air test have swelled from a couple hundred to several thousand , with some 
+				<head>estimates</head>
+				 running as high as 10,000 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="run.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s009.t005">
+			<context>
+				During the past 25 years , the number of balloonists those who have passed a Federal Aviation Authority lighter-than-air test have swelled from a couple hundred to several thousand , with some estimates 
+				<head>running</head>
+				 as high as 10,000 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="hold.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s010.t000">
+			<context>
+				Some 30 balloon shows are 
+				<head>held</head>
+				 annually in the U.S. , including the world 's largest convocation of ersatz Phineas Foggs -- the nine-day Albuquerque International Balloon Fiesta that attracts some 800,000 enthusiasts and more than 500 balloons , some of which are fetchingly shaped to resemble Carmen Miranda , Garfield or a 12-story-high condom .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="include.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s010.t001">
+			<context>
+				Some 30 balloon shows are held annually in the U.S. , 
+				<head>including</head>
+				 the world 's largest convocation of ersatz Phineas Foggs -- the nine-day Albuquerque International Balloon Fiesta that attracts some 800,000 enthusiasts and more than 500 balloons , some of which are fetchingly shaped to resemble Carmen Miranda , Garfield or a 12-story-high condom .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="attract.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s010.t002">
+			<context>
+				Some 30 balloon shows are held annually in the U.S. , including the world 's largest convocation of ersatz Phineas Foggs -- the nine-day Albuquerque International Balloon Fiesta that 
+				<head>attracts</head>
+				 some 800,000 enthusiasts and more than 500 balloons , some of which are fetchingly shaped to resemble Carmen Miranda , Garfield or a 12-story-high condom .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="balloon.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s010.t003">
+			<context>
+				Some 30 balloon shows are held annually in the U.S. , including the world 's largest convocation of ersatz Phineas Foggs -- the nine-day Albuquerque International Balloon Fiesta that attracts some 800,000 enthusiasts and more than 500 
+				<head>balloons</head>
+				 , some of which are fetchingly shaped to resemble Carmen Miranda , Garfield or a 12-story-high condom .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="shape.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s010.t004">
+			<context>
+				Some 30 balloon shows are held annually in the U.S. , including the world 's largest convocation of ersatz Phineas Foggs -- the nine-day Albuquerque International Balloon Fiesta that attracts some 800,000 enthusiasts and more than 500 balloons , some of which are fetchingly 
+				<head>shaped</head>
+				 to resemble Carmen Miranda , Garfield or a 12-story-high condom .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="resemble.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s010.t005">
+			<context>
+				Some 30 balloon shows are held annually in the U.S. , including the world 's largest convocation of ersatz Phineas Foggs -- the nine-day Albuquerque International Balloon Fiesta that attracts some 800,000 enthusiasts and more than 500 balloons , some of which are fetchingly shaped to 
+				<head>resemble</head>
+				 Carmen Miranda , Garfield or a 12-story-high condom .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="balloon.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s011.t000">
+			<context>
+				The condom 
+				<head>balloon</head>
+				 was denied official entry status this year .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="deny.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s011.t001">
+			<context>
+				The condom balloon was 
+				<head>denied</head>
+				 official entry status this year .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="status.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s011.t002">
+			<context>
+				The condom balloon was denied official entry 
+				<head>status</head>
+				 this year .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="hold.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s013.t000">
+			<context>
+				Ballooning at the de rigueur hour of 6 a.m. 
+				<head>held</head>
+				 all the attraction for most people of sunrise root-canal work .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="attraction.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s013.t001">
+			<context>
+				Ballooning at the de rigueur hour of 6 a.m. held all the 
+				<head>attraction</head>
+				 for most people of sunrise root-canal work .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="feel.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s014.t000">
+			<context>
+				
+				<head>Feeling</head>
+				 the naggings of a culture imperative , I promptly signed up .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="sign_up.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s014.t001">
+			<context>
+				Feeling the naggings of a culture imperative , I promptly 
+				<head>signed up</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="thing.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s015.t000">
+			<context>
+				The first 
+				<head>thing</head>
+				 anybody will tell you about ballooning is that it requires zip in the way of athletic prowess , or even a measure of derring-do .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="tell.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s015.t001">
+			<context>
+				The first thing anybody will 
+				<head>tell</head>
+				 you about ballooning is that it requires zip in the way of athletic prowess , or even a measure of derring-do .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="require.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s015.t002">
+			<context>
+				The first thing anybody will tell you about ballooning is that it 
+				<head>requires</head>
+				 zip in the way of athletic prowess , or even a measure of derring-do .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="zip.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s015.t003">
+			<context>
+				The first thing anybody will tell you about ballooning is that it requires 
+				<head>zip</head>
+				 in the way of athletic prowess , or even a measure of derring-do .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="look.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s016.t000">
+			<context>
+				So long as you do n't 
+				<head>look</head>
+				 down .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="tell.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s017.t000">
+			<context>
+				They will also 
+				<head>tell</head>
+				 you that even if you hate heights , you can still balloon .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="hate.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s017.t001">
+			<context>
+				They will also tell you that even if you 
+				<head>hate</head>
+				 heights , you can still balloon .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="balloon.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s017.t002">
+			<context>
+				They will also tell you that even if you hate heights , you can still 
+				<head>balloon</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="say.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s018.t000">
+			<context>
+				I still 
+				<head>say</head>
+				 do n't look down .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="look.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s018.t001">
+			<context>
+				I still say do n't 
+				<head>look</head>
+				 down .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="ascend.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s019.t000">
+			<context>
+				At least not when you are 
+				<head>ascending</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="tell.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s020.t000">
+			<context>
+				What they wo n't 
+				<head>tell</head>
+				 you is not to go aloft in anything you do n't want to get wet .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="go.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s020.t001">
+			<context>
+				What they wo n't tell you is not to 
+				<head>go</head>
+				 aloft in anything you do n't want to get wet .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="want.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s020.t002">
+			<context>
+				What they wo n't tell you is not to go aloft in anything you do n't 
+				<head>want</head>
+				 to get wet .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="get.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s020.t003">
+			<context>
+				What they wo n't tell you is not to go aloft in anything you do n't want to 
+				<head>get</head>
+				 wet .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="refer.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s021.t000">
+			<context>
+				I 'm not 
+				<head>referring</head>
+				 to the traditional champagne drenching during the back-on-terra-firma toast .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="talk.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s022.t000">
+			<context>
+				I 'm 
+				<head>talking</head>
+				 about landing in a canal .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="pilot.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s024.t000">
+			<context>
+				With a 
+				<head>pilot</head>
+				 who speaks no English .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="speak.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s024.t001">
+			<context>
+				With a pilot who 
+				<head>speaks</head>
+				 no English .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="refer.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s025.t000">
+			<context>
+				To wit , my maiden voyage and novitiates are 
+				<head>referred</head>
+				 to as virgins began at dawn on a dew-sodden fairway and ended at noon in a soggy field .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="begin.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s025.t001">
+			<context>
+				To wit , my maiden voyage and novitiates are referred to as virgins 
+				<head>began</head>
+				 at dawn on a dew-sodden fairway and ended at noon in a soggy field .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="end.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s025.t002">
+			<context>
+				To wit , my maiden voyage and novitiates are referred to as virgins began at dawn on a dew-sodden fairway and 
+				<head>ended</head>
+				 at noon in a soggy field .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="flight.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s026.t000">
+			<context>
+				Balloon 
+				<head>flights</head>
+				 almost always occur at dawn or dusk , when the winds are lightest .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="occur.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s026.t001">
+			<context>
+				Balloon flights almost always 
+				<head>occur</head>
+				 at dawn or dusk , when the winds are lightest .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="come.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s027.t000">
+			<context>
+				In between 
+				<head>came</head>
+				 lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="lot.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s027.t001">
+			<context>
+				In between came 
+				<head>lots</head>
+				 of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="watch.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s027.t002">
+			<context>
+				In between came lots of coffee drinking while 
+				<head>watching</head>
+				 the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="balloon.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s027.t003">
+			<context>
+				In between came lots of coffee drinking while watching the 
+				<head>balloons</head>
+				 inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="inflate.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s027.t004">
+			<context>
+				In between came lots of coffee drinking while watching the balloons 
+				<head>inflate</head>
+				 and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="stand.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s027.t005">
+			<context>
+				In between came lots of coffee drinking while watching the balloons inflate and lots of 
+				<head>standing</head>
+				 around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="decide.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s027.t006">
+			<context>
+				In between came lots of coffee drinking while watching the balloons inflate and lots of standing around 
+				<head>deciding</head>
+				 who would fly in what balloon and in what order the baskets hold no more than four passengers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="fly.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s027.t007">
+			<context>
+				In between came lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would 
+				<head>fly</head>
+				 in what balloon and in what order the baskets hold no more than four passengers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="basket.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s027.t008">
+			<context>
+				In between came lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the 
+				<head>baskets</head>
+				 hold no more than four passengers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="hold.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s027.t009">
+			<context>
+				In between came lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets 
+				<head>hold</head>
+				 no more than four passengers .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="follow.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s028.t000">
+			<context>
+				When it was n't my turn in the balloon I 
+				<head>followed</head>
+				 its progress from the `` chase car , `` listening to the driver holler into a walkie-talkie .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="progress.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s028.t001">
+			<context>
+				When it was n't my turn in the balloon I followed its 
+				<head>progress</head>
+				 from the `` chase car , `` listening to the driver holler into a walkie-talkie .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="listen.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s028.t002">
+			<context>
+				When it was n't my turn in the balloon I followed its progress from the `` chase car , `` 
+				<head>listening</head>
+				 to the driver holler into a walkie-talkie .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="driver.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s028.t003">
+			<context>
+				When it was n't my turn in the balloon I followed its progress from the `` chase car , `` listening to the 
+				<head>driver</head>
+				 holler into a walkie-talkie .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="holler.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s028.t004">
+			<context>
+				When it was n't my turn in the balloon I followed its progress from the `` chase car , `` listening to the driver 
+				<head>holler</head>
+				 into a walkie-talkie .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="come.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s029.t000">
+			<context>
+				After long stretches of this attendant ground activity 
+				<head>came</head>
+				 20 or so lovely minutes of drifting above the Vosges watching the silver mists rise off the river and the French cows amble about the fields .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="minute.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s029.t001">
+			<context>
+				After long stretches of this attendant ground activity came 20 or so lovely 
+				<head>minutes</head>
+				 of drifting above the Vosges watching the silver mists rise off the river and the French cows amble about the fields .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="drift.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s029.t002">
+			<context>
+				After long stretches of this attendant ground activity came 20 or so lovely minutes of 
+				<head>drifting</head>
+				 above the Vosges watching the silver mists rise off the river and the French cows amble about the fields .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="watch.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s029.t003">
+			<context>
+				After long stretches of this attendant ground activity came 20 or so lovely minutes of drifting above the Vosges 
+				<head>watching</head>
+				 the silver mists rise off the river and the French cows amble about the fields .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="rise.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s029.t004">
+			<context>
+				After long stretches of this attendant ground activity came 20 or so lovely minutes of drifting above the Vosges watching the silver mists 
+				<head>rise</head>
+				 off the river and the French cows amble about the fields .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="cow.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s029.t005">
+			<context>
+				After long stretches of this attendant ground activity came 20 or so lovely minutes of drifting above the Vosges watching the silver mists rise off the river and the French 
+				<head>cows</head>
+				 amble about the fields .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="amble.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s029.t006">
+			<context>
+				After long stretches of this attendant ground activity came 20 or so lovely minutes of drifting above the Vosges watching the silver mists rise off the river and the French cows 
+				<head>amble</head>
+				 about the fields .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="feel.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s030.t000">
+			<context>
+				It 's hard not to 
+				<head>feel</head>
+				 that God 's in his heaven with this kind of bird's-eye view of the world , even if your pilote in silly plaid beret kept pointing out how `` belle `` it all was .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="keep.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s030.t001">
+			<context>
+				It 's hard not to feel that God 's in his heaven with this kind of bird's-eye view of the world , even if your pilote in silly plaid beret 
+				<head>kept</head>
+				 pointing out how `` belle `` it all was .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="point_out.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s030.t002">
+			<context>
+				It 's hard not to feel that God 's in his heaven with this kind of bird's-eye view of the world , even if your pilote in silly plaid beret kept 
+				<head>pointing out</head>
+				 how `` belle `` it all was .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="come.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s031.t000">
+			<context>
+				Eventually little French farmers and their little French farmwives 
+				<head>came</head>
+				 out of their stone houses and put their hands above their tiny eyes and squinted at us .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="put.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s031.t001">
+			<context>
+				Eventually little French farmers and their little French farmwives came out of their stone houses and 
+				<head>put</head>
+				 their hands above their tiny eyes and squinted at us .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="hand.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s031.t002">
+			<context>
+				Eventually little French farmers and their little French farmwives came out of their stone houses and put their 
+				<head>hands</head>
+				 above their tiny eyes and squinted at us .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="squint.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s031.t003">
+			<context>
+				Eventually little French farmers and their little French farmwives came out of their stone houses and put their hands above their tiny eyes and 
+				<head>squinted</head>
+				 at us .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="come.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s033.t000">
+			<context>
+				We were 
+				<head>coming</head>
+				 down straight into their canal .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="see.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s034.t000">
+			<context>
+				
+				<head>See</head>
+				 , the other rule of thumb about ballooning is that you ca n't steer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="steer.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s034.t001">
+			<context>
+				See , the other rule of thumb about ballooning is that you ca n't 
+				<head>steer</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="go.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s036.t000">
+			<context>
+				You can 
+				<head>go</head>
+				 only up or down by heating the balloon 's air with a propane burner , which does make the top of your head feel hot and ride the air currents .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="heat.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s036.t001">
+			<context>
+				You can go only up or down by 
+				<head>heating</head>
+				 the balloon 's air with a propane burner , which does make the top of your head feel hot and ride the air currents .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="air.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s036.t002">
+			<context>
+				You can go only up or down by heating the balloon 's 
+				<head>air</head>
+				 with a propane burner , which does make the top of your head feel hot and ride the air currents .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="burner.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s036.t003">
+			<context>
+				You can go only up or down by heating the balloon 's air with a propane 
+				<head>burner</head>
+				 , which does make the top of your head feel hot and ride the air currents .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="make.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s036.t004">
+			<context>
+				You can go only up or down by heating the balloon 's air with a propane burner , which does 
+				<head>make</head>
+				 the top of your head feel hot and ride the air currents .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="top.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s036.t005">
+			<context>
+				You can go only up or down by heating the balloon 's air with a propane burner , which does make the 
+				<head>top</head>
+				 of your head feel hot and ride the air currents .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="feel.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s036.t006">
+			<context>
+				You can go only up or down by heating the balloon 's air with a propane burner , which does make the top of your head 
+				<head>feel</head>
+				 hot and ride the air currents .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="ride.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s036.t007">
+			<context>
+				You can go only up or down by heating the balloon 's air with a propane burner , which does make the top of your head feel hot and 
+				<head>ride</head>
+				 the air currents .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="current.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s036.t008">
+			<context>
+				You can go only up or down by heating the balloon 's air with a propane burner , which does make the top of your head feel hot and ride the air 
+				<head>currents</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="make.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s037.t000">
+			<context>
+				Which 
+				<head>makes</head>
+				 the chase car necessary .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="car.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s037.t001">
+			<context>
+				Which makes the chase 
+				<head>car</head>
+				 necessary .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="go.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s038.t000">
+			<context>
+				Most balloonists seldom 
+				<head>go</head>
+				 higher than 2,000 feet and most average a leisurely 5-10 miles an hour .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="average.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s038.t001">
+			<context>
+				Most balloonists seldom go higher than 2,000 feet and most 
+				<head>average</head>
+				 a leisurely 5-10 miles an hour .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="hour.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s038.t002">
+			<context>
+				Most balloonists seldom go higher than 2,000 feet and most average a leisurely 5-10 miles an 
+				<head>hour</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="balloon.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s039.t000">
+			<context>
+				When the 
+				<head>balloon</head>
+				 is cruising along at a steady altitude there is little sense of motion .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="cruise.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s039.t001">
+			<context>
+				When the balloon is 
+				<head>cruising</head>
+				 along at a steady altitude there is little sense of motion .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="ascend.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s040.t000">
+			<context>
+				Only when one is 
+				<head>ascending</head>
+				 -- or in our case descending a tad trop rapidement -- does one feel , well , airborne in a picnic basket .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="descend.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s040.t001">
+			<context>
+				Only when one is ascending -- or in our case 
+				<head>descending</head>
+				 a tad trop rapidement -- does one feel , well , airborne in a picnic basket .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="do.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s041.t000">
+			<context>
+				`` What 's he 
+				<head>doing</head>
+				 ? `` hissed my companion , who was the only other English-speaking member of the convention and whose knuckles were white .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="hiss.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s041.t001">
+			<context>
+				`` What 's he doing ? `` 
+				<head>hissed</head>
+				 my companion , who was the only other English-speaking member of the convention and whose knuckles were white .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="companion.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s041.t002">
+			<context>
+				`` What 's he doing ? `` hissed my 
+				<head>companion</head>
+				 , who was the only other English-speaking member of the convention and whose knuckles were white .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="yell.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s042.t000">
+			<context>
+				`` Attention , `` 
+				<head>yelled</head>
+				 our pilot as our basket plunged into the canal .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="pilot.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s042.t001">
+			<context>
+				`` Attention , `` yelled our 
+				<head>pilot</head>
+				 as our basket plunged into the canal .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="basket.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s042.t002">
+			<context>
+				`` Attention , `` yelled our pilot as our 
+				<head>basket</head>
+				 plunged into the canal .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="plunge.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s042.t003">
+			<context>
+				`` Attention , `` yelled our pilot as our basket 
+				<head>plunged</head>
+				 into the canal .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="yell.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s043.t000">
+			<context>
+				`` You bet attention , `` I 
+				<head>yelled</head>
+				 back , leaping atop the propane tanks , `` I 'm wearing alligator loafers ! ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="leap.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s043.t001">
+			<context>
+				`` You bet attention , `` I yelled back , 
+				<head>leaping</head>
+				 atop the propane tanks , `` I 'm wearing alligator loafers ! ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="wear.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s043.t002">
+			<context>
+				`` You bet attention , `` I yelled back , leaping atop the propane tanks , `` I 'm 
+				<head>wearing</head>
+				 alligator loafers ! ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="loafer.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s043.t003">
+			<context>
+				`` You bet attention , `` I yelled back , leaping atop the propane tanks , `` I 'm wearing alligator 
+				<head>loafers</head>
+				 ! ``
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="pilot.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s044.t000">
+			<context>
+				Our 
+				<head>pilot</head>
+				 simply laughed , fired up the burner and with another blast of flame lifted us , oh , a good 12-inches above the water level .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="laugh.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s044.t001">
+			<context>
+				Our pilot simply 
+				<head>laughed</head>
+				 , fired up the burner and with another blast of flame lifted us , oh , a good 12-inches above the water level .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="burner.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s044.t002">
+			<context>
+				Our pilot simply laughed , fired up the 
+				<head>burner</head>
+				 and with another blast of flame lifted us , oh , a good 12-inches above the water level .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="lift.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s044.t003">
+			<context>
+				Our pilot simply laughed , fired up the burner and with another blast of flame 
+				<head>lifted</head>
+				 us , oh , a good 12-inches above the water level .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="scuttle.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s045.t000">
+			<context>
+				We 
+				<head>scuttled</head>
+				 along for a few feet before he plunged us into the drink again .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="plunge.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s045.t001">
+			<context>
+				We scuttled along for a few feet before he 
+				<head>plunged</head>
+				 us into the drink again .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="come.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s046.t000">
+			<context>
+				Eventually we 
+				<head>came</head>
+				 to rest in a soggy patch of field where we had the exquisite pleasure of scrambling out of the basket into the mud while the French half of our ballooning tag team scrambled in .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="rest.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s046.t001">
+			<context>
+				Eventually we came to 
+				<head>rest</head>
+				 in a soggy patch of field where we had the exquisite pleasure of scrambling out of the basket into the mud while the French half of our ballooning tag team scrambled in .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="have.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s046.t002">
+			<context>
+				Eventually we came to rest in a soggy patch of field where we 
+				<head>had</head>
+				 the exquisite pleasure of scrambling out of the basket into the mud while the French half of our ballooning tag team scrambled in .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="pleasure.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s046.t003">
+			<context>
+				Eventually we came to rest in a soggy patch of field where we had the exquisite 
+				<head>pleasure</head>
+				 of scrambling out of the basket into the mud while the French half of our ballooning tag team scrambled in .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="scramble.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s046.t004">
+			<context>
+				Eventually we came to rest in a soggy patch of field where we had the exquisite pleasure of 
+				<head>scrambling</head>
+				 out of the basket into the mud while the French half of our ballooning tag team scrambled in .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="half.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s046.t005">
+			<context>
+				Eventually we came to rest in a soggy patch of field where we had the exquisite pleasure of scrambling out of the basket into the mud while the French 
+				<head>half</head>
+				 of our ballooning tag team scrambled in .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="scramble.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s046.t006">
+			<context>
+				Eventually we came to rest in a soggy patch of field where we had the exquisite pleasure of scrambling out of the basket into the mud while the French half of our ballooning tag team 
+				<head>scrambled</head>
+				 in .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="look.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s047.t000">
+			<context>
+				I 
+				<head>looked</head>
+				 at my watch .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="drive.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s049.t000">
+			<context>
+				Back in the chase car , we 
+				<head>drove</head>
+				 around some more , got stuck in a ditch , enlisted the aid of a local farmer to get out the trailer hitch and pull us out of the ditch .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="get.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s049.t001">
+			<context>
+				Back in the chase car , we drove around some more , 
+				<head>got</head>
+				 stuck in a ditch , enlisted the aid of a local farmer to get out the trailer hitch and pull us out of the ditch .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="get_stuck.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s049.t002">
+			<context>
+				Back in the chase car , we drove around some more , got 
+				<head>stuck in</head>
+				 a ditch , enlisted the aid of a local farmer to get out the trailer hitch and pull us out of the ditch .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="enlist.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s049.t003">
+			<context>
+				Back in the chase car , we drove around some more , got stuck in a ditch , 
+				<head>enlisted</head>
+				 the aid of a local farmer to get out the trailer hitch and pull us out of the ditch .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="aid.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s049.t004">
+			<context>
+				Back in the chase car , we drove around some more , got stuck in a ditch , enlisted the 
+				<head>aid</head>
+				 of a local farmer to get out the trailer hitch and pull us out of the ditch .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="farmer.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s049.t005">
+			<context>
+				Back in the chase car , we drove around some more , got stuck in a ditch , enlisted the aid of a local 
+				<head>farmer</head>
+				 to get out the trailer hitch and pull us out of the ditch .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="get_out.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s049.t006">
+			<context>
+				Back in the chase car , we drove around some more , got stuck in a ditch , enlisted the aid of a local farmer to 
+				<head>get out</head>
+				 the trailer hitch and pull us out of the ditch .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="hitch.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s049.t007">
+			<context>
+				Back in the chase car , we drove around some more , got stuck in a ditch , enlisted the aid of a local farmer to get out the trailer 
+				<head>hitch</head>
+				 and pull us out of the ditch .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="pull_out.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s049.t008">
+			<context>
+				Back in the chase car , we drove around some more , got stuck in a ditch , enlisted the aid of a local farmer to get out the trailer hitch and 
+				<head>pull</head>
+				 us out of the ditch .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="rendezvous.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s050.t000">
+			<context>
+				We finally 
+				<head>rendezvoused</head>
+				 with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="balloon.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s050.t001">
+			<context>
+				We finally rendezvoused with our 
+				<head>balloon</head>
+				 , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="come.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s050.t002">
+			<context>
+				We finally rendezvoused with our balloon , which had 
+				<head>come</head>
+				 to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="rest.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s050.t003">
+			<context>
+				We finally rendezvoused with our balloon , which had come to 
+				<head>rest</head>
+				 on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="watch.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s050.t004">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who 
+				<head>watched</head>
+				 us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="disassemble.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s050.t005">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us 
+				<head>disassemble</head>
+				 our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="craft.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s050.t006">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our 
+				<head>craft</head>
+				 -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="activity.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s050.t007">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight 
+				<head>activity</head>
+				 -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="include.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s050.t008">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that 
+				<head>included</head>
+				 the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="routine.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s050.t009">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision 
+				<head>routine</head>
+				 of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="yank.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s050.t010">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of 
+				<head>yanking</head>
+				 the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="punch.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s050.t011">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , 
+				<head>punching</head>
+				 all the air out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="air.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s050.t012">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the 
+				<head>air</head>
+				 out of it , rolling it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="roll_up.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s050.t013">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , 
+				<head>rolling</head>
+				 it up and cramming it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="cram.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s050.t014">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and 
+				<head>cramming</head>
+				 it and the basket into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="basket.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s050.t015">
+			<context>
+				We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the 
+				<head>basket</head>
+				 into the trailer .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="exercise.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s051.t000">
+			<context>
+				It was the most 
+				<head>exercise</head>
+				 we 'd had all morning and it was followed by our driving immediately to the nearest watering hole .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="have.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s051.t001">
+			<context>
+				It was the most exercise we 'd 
+				<head>had</head>
+				 all morning and it was followed by our driving immediately to the nearest watering hole .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="follow.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s051.t002">
+			<context>
+				It was the most exercise we 'd had all morning and it was 
+				<head>followed</head>
+				 by our driving immediately to the nearest watering hole .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="drive.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s051.t003">
+			<context>
+				It was the most exercise we 'd had all morning and it was followed by our 
+				<head>driving</head>
+				 immediately to the nearest watering hole .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="mean.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s052.t000">
+			<context>
+				This 
+				<head>meant</head>
+				 returning to the golf course , where we watched a few French duffers maul the first tee while we sat under Cinzano umbrellas , me nursing an espresso and my ego .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="return.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s052.t001">
+			<context>
+				This meant 
+				<head>returning</head>
+				 to the golf course , where we watched a few French duffers maul the first tee while we sat under Cinzano umbrellas , me nursing an espresso and my ego .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="watch.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s052.t002">
+			<context>
+				This meant returning to the golf course , where we 
+				<head>watched</head>
+				 a few French duffers maul the first tee while we sat under Cinzano umbrellas , me nursing an espresso and my ego .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="duffer.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s052.t003">
+			<context>
+				This meant returning to the golf course , where we watched a few French 
+				<head>duffers</head>
+				 maul the first tee while we sat under Cinzano umbrellas , me nursing an espresso and my ego .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="maul.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s052.t004">
+			<context>
+				This meant returning to the golf course , where we watched a few French duffers 
+				<head>maul</head>
+				 the first tee while we sat under Cinzano umbrellas , me nursing an espresso and my ego .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="tee.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s052.t005">
+			<context>
+				This meant returning to the golf course , where we watched a few French duffers maul the first 
+				<head>tee</head>
+				 while we sat under Cinzano umbrellas , me nursing an espresso and my ego .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="sit.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s052.t006">
+			<context>
+				This meant returning to the golf course , where we watched a few French duffers maul the first tee while we 
+				<head>sat</head>
+				 under Cinzano umbrellas , me nursing an espresso and my ego .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="ego.NOUN" pos="NOUN">
+		<instance docsrc="semeval2007" id="d002.s052.t007">
+			<context>
+				This meant returning to the golf course , where we watched a few French duffers maul the first tee while we sat under Cinzano umbrellas , me nursing an espresso and my 
+				<head>ego</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="figure.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s054.t000">
+			<context>
+				Still , I 
+				<head>figured</head>
+				 the event 's envy-quotient back in the U.S.A. was near peerless .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="clamber.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s055.t000">
+			<context>
+				As for the ride back to camp , our pilot and all the other French-speaking passengers 
+				<head>clambered</head>
+				 into the chase car .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="leave.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s056.t000">
+			<context>
+				My American companion and I were 
+				<head>left</head>
+				 to ride alfresco in the wicker basket .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="ride.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s056.t001">
+			<context>
+				My American companion and I were left to 
+				<head>ride</head>
+				 alfresco in the wicker basket .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="streak.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s057.t000">
+			<context>
+				As we 
+				<head>streaked</head>
+				 by a blase gendarme , I could n't resist rearing up on my soggy loafers and saluting .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="resist.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s057.t001">
+			<context>
+				As we streaked by a blase gendarme , I could n't 
+				<head>resist</head>
+				 rearing up on my soggy loafers and saluting .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="rear.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s057.t002">
+			<context>
+				As we streaked by a blase gendarme , I could n't resist 
+				<head>rearing</head>
+				 up on my soggy loafers and saluting .
+			</context>
+		</instance>
+	</lexelt>
+	<lexelt item="salute.VERB" pos="VERB">
+		<instance docsrc="semeval2007" id="d002.s057.t003">
+			<context>
+				As we streaked by a blase gendarme , I could n't resist rearing up on my soggy loafers and 
+				<head>saluting</head>
+				 .
+			</context>
+		</instance>
+	</lexelt>
+</corpus>

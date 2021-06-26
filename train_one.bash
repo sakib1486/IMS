@@ -20,4 +20,4 @@ fi
 libdir=$bdir/lib
 CP=$libdir/liblinear-1.33-with-deps.jar:$libdir/jwnl.jar:$libdir/commons-logging.jar:$libdir/jdom.jar:$libdir/trove.jar:$libdir/maxent-2.4.0.jar:$libdir/opennlp-tools-1.3.0.jar:$bdir/ims.jar
 export LANG=en_US
-java -mx1900m -cp $CP sg.edu.nus.comp.nlp.ims.implement.CTrainModel -prop $libdir/prop.xml -ptm $libdir/tag.bin.gz -tagdict $libdir/tagdict.txt -ssm $libdir/EnglishSD.bin.gz $1 $2 $3 -f sg.edu.nus.comp.nlp.ims.feature.CFeatureExtractorCombination -s2 $s2 -c2 $c2 #-type directory
+java -Xmx30G -Xms30G -cp $CP sg.edu.nus.comp.nlp.ims.implement.CTrainModel -prop $libdir/prop.xml -ptm $libdir/tag.bin.gz -tagdict $libdir/tagdict.txt -ssm $libdir/EnglishSD.bin.gz $1 $2 $3 -f sg.edu.nus.comp.nlp.ims.feature.CFeatureExtractorCombination -s2 $s2 -c2 $c2 #-type directory
