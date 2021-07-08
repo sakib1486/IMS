@@ -42,17 +42,38 @@ pred_files = ['/home/sakib/Desktop/Research/IMS/Evaluation/pred_SE2.txt', '/home
 
 #sorting the prediction files based on the first columns
 
-for k in range(len(pred_files)):
-	f = open(pred_files[k], "r")
+#for k in range(len(pred_files)):
+#	f = open(pred_files[k], "r")
+#	lines = f.readlines()
+#	f.close()
+#
+#	f = open(pred_files[k], "w")
+#
+#	for line in sorted(lines, key=lambda line: line.split()[0]):
+#		f.write(line)
+#
+#	f.close()
+
+
+#creating the all dataset outputs
+
+all = open("pred_ALL.txt", "w+")
+
+for k in range(len(answer_files)):
+
+	f = open(answer_files[k],"r")
 	lines = f.readlines()
+	modified_lines = []
+	for i in lines:
+		line = i.split()[0]+"."+i.split()[1]+" "+i.split()[2]+"\n"
+		modified_lines.append(line)
+
+	for line in sorted(modified_lines, key=lambda line:line.split()[0]):
+		all.write(line)
 	f.close()
 
-	f = open(pred_files[k], "w")
+all.close()
 
-	for line in sorted(lines, key=lambda line: line.split()[0]):
-		f.write(line)
-
-	f.close()
 
 
 
