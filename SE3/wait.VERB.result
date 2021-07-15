@@ -1,0 +1,6 @@
+senseval3 d000.s031.t005 wait%2:42:00::
+senseval3 d000.s158.t000 wait%2:42:00::
+senseval3 d002.s015.t001 wait%2:42:00::
+senseval3 d002.s101.t005 wait%2:31:00::
+senseval3 d002.s125.t002 wait%2:42:00::
+senseval3 d002.s131.t002 wait%2:42:00::
