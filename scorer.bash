@@ -10,4 +10,4 @@ modeldir=$2
 savedir=$3
 CLASSPATH=$libdir/weka-3.2.3.jar:$libdir/jwnl.jar:$libdir/commons-logging.jar:$libdir/jdom.jar:$libdir/trove.jar:$libdir/maxent-2.4.0.jar:$libdir/opennlp-tools-1.3.0.jar:$libdir/liblinear-1.33-with-deps.jar:$bdir/ims.jar
 export LANG=en_US
-java -Xmx30G -Xms30G -cp $CLASSPATH sg.edu.nus.comp.nlp.ims.util.CScorer $*
+java -mx1900m -cp $CLASSPATH sg.edu.nus.comp.nlp.ims.util.CScorer $*
